@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs_64_KaterinaPilipets/static/css/main.fbc77abe.css",
-    "main.js": "/react_node_fs_64_KaterinaPilipets/static/js/main.e696cb25.js",
+    "main.js": "/react_node_fs_64_KaterinaPilipets/static/js/main.46900415.js",
     "static/js/927.9917686a.chunk.js": "/react_node_fs_64_KaterinaPilipets/static/js/927.9917686a.chunk.js",
     "static/js/569.8a34986d.chunk.js": "/react_node_fs_64_KaterinaPilipets/static/js/569.8a34986d.chunk.js",
     "static/js/824.64b6d42d.chunk.js": "/react_node_fs_64_KaterinaPilipets/static/js/824.64b6d42d.chunk.js",
@@ -11,13 +11,13 @@
     "static/media/sprite.svg": "/react_node_fs_64_KaterinaPilipets/static/media/sprite.5f8552c938ace461bc2c6bc8c1ed69cb.svg",
     "index.html": "/react_node_fs_64_KaterinaPilipets/index.html",
     "main.fbc77abe.css.map": "/react_node_fs_64_KaterinaPilipets/static/css/main.fbc77abe.css.map",
-    "main.e696cb25.js.map": "/react_node_fs_64_KaterinaPilipets/static/js/main.e696cb25.js.map",
+    "main.46900415.js.map": "/react_node_fs_64_KaterinaPilipets/static/js/main.46900415.js.map",
     "927.9917686a.chunk.js.map": "/react_node_fs_64_KaterinaPilipets/static/js/927.9917686a.chunk.js.map",
     "569.8a34986d.chunk.js.map": "/react_node_fs_64_KaterinaPilipets/static/js/569.8a34986d.chunk.js.map",
     "824.64b6d42d.chunk.js.map": "/react_node_fs_64_KaterinaPilipets/static/js/824.64b6d42d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fbc77abe.css",
-    "static/js/main.e696cb25.js"
+    "static/js/main.46900415.js"
   ]
 }
